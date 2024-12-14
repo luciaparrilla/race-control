@@ -2,8 +2,9 @@ package racecontrol;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.io.Serializable;
 
-public class Race {
+public class Race implements Serializable {
     private String garageName;
     private List<Garage> garage;
     private List<Car> car;

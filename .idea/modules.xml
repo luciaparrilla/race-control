@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RaceControl.iml" filepath="$PROJECT_DIR$/RaceControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/racecontrol.iml" filepath="$PROJECT_DIR$/racecontrol.iml" />
     </modules>
   </component>
 </project>

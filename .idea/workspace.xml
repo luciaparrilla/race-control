@@ -5,19 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd77efa2-a7d3-47a0-bef7-0204997c3df1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RaceControl.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/Control.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/EliminatoryHeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/Garage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/Race.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/racecontrol/Tournament.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RaceControl.iml" beforeDir="false" afterPath="$PROJECT_DIR$/racecontrol.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/racecontrol/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/racecontrol/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/racecontrol/Control.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/racecontrol/Control.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/racecontrol/Garage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/racecontrol/Garage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/racecontrol/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/racecontrol/Race.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/racecontrol/Tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/racecontrol/Tournament.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;luciaparrilla&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/luciaparrilla/race-control.git&quot;,
+    &quot;accountId&quot;: &quot;783da6e8-9ad3-413c-ac2a-501b5886be32&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -50,13 +57,19 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucia/Desktop/Master/Familiarizacion con entornos y lenguajes de programación/workspace-java/red-social&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lucia/Desktop/Master/Familiarizacion con entornos y lenguajes de programación/workspace-java/racecontrol&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
   }
 }</component>
   <component name="RunManager">
     <configuration name="Control" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="racecontrol.Control" />
-      <module name="RaceControl" />
+      <module name="racecontrol" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="racecontrol.*" />

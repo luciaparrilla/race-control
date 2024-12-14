@@ -1,12 +1,14 @@
 package racecontrol;
 
-public class Car {
+import java.io.Serializable;
+
+public class Car implements Serializable {
     private String label;
     private String model;
     private int maxSpeed;
 
 
-    public Car (String label, String model, int maxSpeed, int acceleration){ //int time
+    public Car(String label, String model, int maxSpeed, int acceleration){ //int time
         this.label = label;
         this.model = model;
         this.maxSpeed = 220;
